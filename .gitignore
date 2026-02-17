@@ -97,3 +97,7 @@ vite.config.ts.timestamp-*
 # Temporary files
 tmp/
 temp/
+
+# Trae specs (development only)
+.trae/
+screenshots/
